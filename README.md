@@ -27,16 +27,22 @@
 ![](https://raw.githubusercontent.com/wuchengjiang/myk8smanager/main/images/dashboard.png)
 
 **k8s 资源管理**
+
+deployment管理
 ![](https://raw.githubusercontent.com/wuchengjiang/myk8smanager/main/images/k8s%20deployment%E7%AE%A1%E7%90%86.png)
 
+service管理
 ![](https://raw.githubusercontent.com/wuchengjiang/myk8smanager/main/images/service%E7%AE%A1%E7%90%86.png)
 
+pod管理
 ![](https://raw.githubusercontent.com/wuchengjiang/myk8smanager/main/images/pod%E7%AE%A1%E7%90%86.png)
 
 **pipeline流水线**
 
+创建构建计划
 ![](https://raw.githubusercontent.com/wuchengjiang/myk8smanager/main/images/%E6%9E%84%E5%BB%BA%E8%AE%A1%E5%88%92.png)
 
+执行构建
 ![](https://raw.githubusercontent.com/wuchengjiang/myk8smanager/main/images/%E6%9E%84%E5%BB%BA%E5%8F%82%E6%95%B0.png)
 
 
