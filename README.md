@@ -3,7 +3,7 @@
 
 ## 主要功能
 
-包括: K8S多集群管理，，tekton、argocd自动化发布
+包括: 账号管理，角色，API管理，K8S多集群管理，tekton、argocd自动化发布
 
 ## 开发语言
 
